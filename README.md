@@ -2,6 +2,7 @@
 
 # Introduction
 - A interactive simple jeopardy dice game in which two players race to reach 100 points
+- For website display, please go to: https://jenniengi.github.io/piggame/
 - The purpose is to show skills in HTML, CSS, JavaScript
 
 ## Installation
