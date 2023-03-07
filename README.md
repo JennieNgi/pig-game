@@ -1,6 +1,7 @@
+![pigGame](https://user-images.githubusercontent.com/75710628/223285136-117590f9-ed88-45f2-9cc8-1107bf02f5b5.png)
+
 # Pig Game
 The Pig game is a two-player dice game that challenges players to be the first to reach a score of 100 points. Each turn, a player rolls a dice as many times as they wish, accumulating points with each roll. However, if a player rolls a one, they lose all the points they have accumulated during their turn and the other player gets a chance to roll. The game continues until one player reaches a score of 100 points, at which point they are declared the winner.
-![pigGame](https://user-images.githubusercontent.com/75710628/223285136-117590f9-ed88-45f2-9cc8-1107bf02f5b5.png)
 
 DEMO: https://jenniengi.github.io/pig-game/
 
